@@ -1,0 +1,11 @@
+[
+  {
+    "name": "NovelLib ES",
+    "pkg": "eu.kanade.tachiyomi.extension.es.novellib",
+    "apk": "https://raw.githubusercontent.com/TUUSUARIO/novelas-repo/main/apks/novellib.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0
+  }
+]
