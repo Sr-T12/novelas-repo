@@ -7,5 +7,23 @@
     "code": 1,
     "version": "1.0",
     "nsfw": 0
+  },
+  {
+    "name": "TuNovela",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tunovela",
+    "apk": "https://raw.githubusercontent.com/Sr-T12/novelas-repo/main/apks/tunovela.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0
+  },
+  {
+    "name": "Lector Novelas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lectornovelas",
+    "apk": "https://raw.githubusercontent.com/Sr-T12/novelas-repo/main/apks/lectornovelas.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.0",
+    "nsfw": 0
   }
 ]
